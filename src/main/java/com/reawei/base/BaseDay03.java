@@ -8,7 +8,7 @@ package com.reawei.base;
  *
  * @author: qigong
  */
-public class BaseDat03 {
+public class BaseDay03 {
 
     /**
      * 下节学习JAVA的关系运算符
